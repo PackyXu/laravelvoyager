@@ -1,0 +1,40 @@
+body{
+    background: url("../img/cloud-bar.png") repeat-x #fff;
+    margin: 0;
+    color: #525252;
+    font-family: "Whitney SSm A","Whitney SSm B",sans-serif;
+    font-size: 16px;
+    padding-top: 10px;
+}
+#container{
+    margin-top: 30px;
+}
+.code{
+    color: #f4645f;
+}
+.code-color{
+    color: #fff;
+    background: #f4645f;
+}
+.navbar-default .navbar-header .code{
+    color: #f4645f;
+}
+.navbar-default .navbar-toggle {
+    border-color: #f4645f;
+    background: #f4645f;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #fff;
+}
+
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color:#f4645f;
+}
+.btn:hover{
+    color: #FFFFFF;
+    background: #3b99fc;
+}
+.container .panel .list-group #DelForm {
+    display: inline-block;
+    margin: 10px;
+}
